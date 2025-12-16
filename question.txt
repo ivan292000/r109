@@ -35,9 +35,15 @@ dividende = rémunérations des actionnaire
 l'Etats collecte les prélevements obligatoires sous forme de prestations sociales au ménage qui en ont besoins
 ( exemple APL, Alooc familiales , bourses , pension retraites)
 
-4) Comment appelle t-on :
-l’achat d’une nouvelle machine effectué par l’entreprise:
-l’achat d’un appartement fait par un particulier :
- les dépenses d’un particulier qui fait des travaux de peinture chez lui :
+montants des prestation sociales depend du du revenus du foyer fiscales et de la composition du foyer fiscales ( nombre personnes) cela sert  a calculer le quotient familiales.
 
+
+4) Comment appelle t-on :
+l’achat d’une nouvelle machine effectué par l’entreprise: investissements
+l’achat d’un appartement fait par un particulier :  investissements
+ les dépenses d’un particulier qui fait des travaux de peinture chez lui : consommation
+
+ type depense --> investissements
+              -->  consommation
+        
 5) Donnez la définition d’un agent économique:
