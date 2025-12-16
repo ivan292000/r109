@@ -26,9 +26,14 @@ Vocabulaires:
 Impots + taxes = prélèvements obligatoires
 Impots : --> impots directes ( ex impots sur le revenus)
          --> impots indirectes ( ex TVA)
-
+personne qui paye les impots = contribuable 
+société : actionnaire --> part du capital social
+          associées --> une part sociale
+dividende = rémunérations des actionnaire
 
 3) Quel lien peut-on faire entre le paiement des impôts et la redistribution faite par l’État ?
+l'Etats collecte les prélevements obligatoires sous forme de prestations sociales au ménage qui en ont besoins
+( exemple APL, Alooc familiales , bourses , pension retraites)
 
 4) Comment appelle t-on :
 l’achat d’une nouvelle machine effectué par l’entreprise:
