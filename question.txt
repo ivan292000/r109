@@ -12,7 +12,18 @@ A partir de la vidéo, répondez aux questions suivantes :
 Dépense -> Production -> Distribution
 
 2)Comment sont réparties les richesses créées par les entreprises ?
-  repartitions de la valeur ajoutée
+  -repartitions de la valeur ajoutée :
+
+agents béneficiaire de la VA |      leur part        |
+------------------------------------------------------
+-salariés                     |     Salaires + primes 
+-Etats                        |     Impots + Taxes
+-Actionnaires                 |     Dividendes
+-Entreprise                   |     Autofinancements
+-Banque                       |     intérêts bancaires
+
+
+
 
 3) Quel lien peut-on faire entre le paiement des impôts et la redistribution faite par l’État ?
 
