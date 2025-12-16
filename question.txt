@@ -16,13 +16,16 @@ Dépense -> Production -> Distribution
 
 agents béneficiaire de la VA |      leur part        |
 ------------------------------------------------------
--salariés                     |     Salaires + primes 
--Etats                        |     Impots + Taxes
--Actionnaires                 |     Dividendes
--Entreprise                   |     Autofinancements
--Banque                       |     intérêts bancaires
+-salariés                    |     Salaires + primes 
+-Etats                       |     Impots + Taxes
+-Actionnaires                |     Dividendes
+-Entreprise                  |     Autofinancements
+-Banque                      |     intérêts bancaires
 
-
+Vocabulaires:
+Impots + taxes = prélèvements obligatoires
+Impots : --> impots directes ( ex impots sur le revenus)
+         --> impots indirectes ( ex TVA)
 
 
 3) Quel lien peut-on faire entre le paiement des impôts et la redistribution faite par l’État ?
