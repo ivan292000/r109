@@ -78,7 +78,11 @@ lorsque tout les acteur d'un marché ne possede pas les meme information
 
 2) Recopiez le schéma permettant d’expliquer la disparition du marché des véhicules 
 d’occasion.
+l'exemple des voitures d'occasion montre que pour plusieur voitures qui on l'air identique de l'exterieur
+seul le vendeur sait si elle sont en bonne etat ou pas
+
 3) Comment est-il possible de lutter contre les asymétries d’information ?
+
 4) Qu’est-ce qu’une externalité positive ? Une externalité négative ?
 5) Pourquoi ces externalités entraînent-elles une mauvaise allocation des ressources ?
 6) Comment résoudre le problème des externalités ?
