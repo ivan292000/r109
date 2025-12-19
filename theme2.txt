@@ -109,8 +109,12 @@ et "punir" les externalité negative en créant des taxes
 
 
 7) Qu’est-ce qu’un bien collectif ?
+les bien collectifs sont non rivaux ,et non excluable ( peuvent etre consommé par plusieurs personnes a la fois, empossible d'empécher quel'un de les consommer)
+
 
 8) Pourquoi le marché ne peut-il pas spontanément produire de tels biens ?
 
+
 9) Comment peut-on résoudre cette défaillance de marché ?
 L'etat peut augmenter le nombre de bien collectif
+
