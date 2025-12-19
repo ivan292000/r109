@@ -106,7 +106,11 @@ et l'acteur source n'a aucune raison d'arreter comme il n'y a aucun cout
 6) Comment résoudre le problème des externalités ?
 L'etat peut mettre en place des motivation pour continuer les externalité positive par exemple des aide
 et "punir" les externalité negative en créant des taxes
+
+
 7) Qu’est-ce qu’un bien collectif ?
+
 8) Pourquoi le marché ne peut-il pas spontanément produire de tels biens ?
 
 9) Comment peut-on résoudre cette défaillance de marché ?
+L'etat peut augmenter le nombre de bien collectif
