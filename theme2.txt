@@ -82,8 +82,11 @@ l'exemple des voitures d'occasion montre que pour plusieur voitures qui on l'air
 seul le vendeur sait si elle sont en bonne etat ou pas
 
 3) Comment est-il possible de lutter contre les asymétries d’information ?
+Le meilleur moyen afin de lutter contre l'asymetrie de l'information et de crée et des labels
+qui fournisse des information telle que le LABEL ROUGE afin de savoir comment a ete elevée le poulet
 
 4) Qu’est-ce qu’une externalité positive ? Une externalité négative ?
+
 5) Pourquoi ces externalités entraînent-elles une mauvaise allocation des ressources ?
 6) Comment résoudre le problème des externalités ?
 7) Qu’est-ce qu’un bien collectif ?
