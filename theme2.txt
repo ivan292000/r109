@@ -69,3 +69,19 @@ L'état seul s'occupe des service régaliens a travers 5 ministère:
 3) Comment sont-il financés ?
 Les ministère sont uniquement finance par de l'argent public afin d'eviter 
 toute influence par un groupe externe
+
+
+22) En quoi les marchés sont-ils défaillants      ?  
+
+1) Qu’est-ce qu’une asymétrie d’information ?
+lorsque tout les acteur d'un marché ne possede pas les meme information
+
+2) Recopiez le schéma permettant d’expliquer la disparition du marché des véhicules 
+d’occasion.
+3) Comment est-il possible de lutter contre les asymétries d’information ?
+4) Qu’est-ce qu’une externalité positive ? Une externalité négative ?
+5) Pourquoi ces externalités entraînent-elles une mauvaise allocation des ressources ?
+6) Comment résoudre le problème des externalités ?
+7) Qu’est-ce qu’un bien collectif ?
+8) Pourquoi le marché ne peut-il pas spontanément produire de tels biens ?
+9) Comment peut-on résoudre cette défaillance de marché ?
