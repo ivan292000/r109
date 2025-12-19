@@ -104,6 +104,8 @@ Et dans le cas d'une externalité négatif l'acteur receveur n'aura aucune compe
 et l'acteur source n'a aucune raison d'arreter comme il n'y a aucun cout
 
 6) Comment résoudre le problème des externalités ?
+L'etat peut mettre en place des motivation pour continuer les externalité positive par exemple des aide
+et "punir" les externalité negative en créant des taxes
 7) Qu’est-ce qu’un bien collectif ?
 8) Pourquoi le marché ne peut-il pas spontanément produire de tels biens ?
 
