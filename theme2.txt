@@ -86,10 +86,16 @@ Le meilleur moyen afin de lutter contre l'asymetrie de l'information et de crée
 qui fournisse des information telle que le LABEL ROUGE afin de savoir comment a ete elevée le poulet
 
 4) Qu’est-ce qu’une externalité positive ? Une externalité négative ?
-une externalité est le fait que des actions d'un acteur affecte le bien etre d'un autre acteur
+une externalité est le fait que des actions d'un acteur non renumérer affecte le bien etre d'un autre acteur 
 Si c'est en bien on parle de externalité positive
 Si c'est en mal on parle de externalité negative
+
+
 5) Pourquoi ces externalités entraînent-elles une mauvaise allocation des ressources ?
+Car si il y a externalité positive l'acteur source ne sera pas encourager a continuer donc risque d'arreter
+Et dans le cas d'une externalité négatif l'acteur receveur n'aura aucune compensentiation pour les perte 
+et l'acteur source n'a aucune raison d'arreter comme il n'y a aucun cout
+
 6) Comment résoudre le problème des externalités ?
 7) Qu’est-ce qu’un bien collectif ?
 8) Pourquoi le marché ne peut-il pas spontanément produire de tels biens ?
