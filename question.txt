@@ -50,6 +50,11 @@ l’achat d’un appartement fait par un particulier :  investissements
 agents éco = secteur institutionnels
 c'est une categorie homogene d'individu qui ont la meme fonction principale, 
 
+6) banque :
+fonction principale : financer l'activitées economique , collecter et repartir les disponibilitées financiere
+ressources : frais bancaire
+
+
 
 II Représentation d’un circuit économique   
 
