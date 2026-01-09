@@ -54,14 +54,18 @@ c'est une categorie homogene d'individu qui ont la meme fonction principale,
 société non financiere : production de bien et de services marchand 
 fonction principale : chiffre d'affaire, subvention
 ressources 
+
 banque :
 fonction principale : financer l'activitées economique , collecter et repartir les disponibilitées financiere
 ressources : frais bancaire, intérêt bancaire, agios.
 
 assurance : 
 fonction principale : assurer ( garantir un paiement en cas de realisation d'un risque ( accidents))
-ressources  : prime d'assurance ( ou cotisations) 
+ressources  : prime d'assurance ( ou cotisations) , produits d'assurances ( dif contrats )
 
+administration public : 
+fonction principale: produit des services non marchand ( prestation sociale )
+ressources : impots , taxes = prelevement obligatoire
 
 
 II Représentation d’un circuit économique   
