@@ -31,6 +31,8 @@ leur part respective :
 3) Comment obtient-on le chiffre de 2 500,00 dans la colonne « revenu disponible » ?
 
 4) Expliquez ce que sont les prélèvements obligatoires et les revenus de transfert.
+Les prelevement obligatoire correspondent au impôts 
+les revenus de transfert correspondent au allocation
 
 5) Pourquoi le secrétaire n’a-t-il pas de revenus de transfert ?
 
