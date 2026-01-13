@@ -50,6 +50,7 @@ En france il existe le RSA qui aide les chômeur a vivre
 les revenus disponible c'est la somme des revenu primaire et des transfert moins les prelevement.
 
 8) Comparez revenu primaire et revenu disponible. Que constatez-vous ?
+une baisse pour les plus riches et une augmantation pour les plus pauvres
 
 9) Qui s’occupe de gérer les prélèvements obligatoires et les revenus de transfert ?
 C'est l'etat qui s'occupe de redistribuer les richesses au personne qui on besoin
@@ -58,14 +59,6 @@ C'est l'etat qui s'occupe de redistribuer les richesses au personne qui on besoi
 le revenu va servir a faire vivre le menage (nourriture,essence,eau,electricité) mais le surplus 
 peut servir afin des faire des activité de loisir (achete un livre,allez a un concert)
 
-11) Pour synthétiser remplissez le schéma suivant :
-Schéma à compléter :
-
-...........
-
-+ .........
-- .........
-=revenu dispônible
 
 
 
