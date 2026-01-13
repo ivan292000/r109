@@ -6,8 +6,11 @@ livret de caisse d’épargne : 452 euros
 actions de sociétés françaises : 2500 euros par ans .
 location d'appartement : 620€
 
-2) Expliquez ce que sont les revenus du travail, les revenus mixtes et les revenus de la
-propriété (revenus du capital).
+2) Expliquez ce que sont
+les revenus du travail:  montant que les personnes employées gagnent en travaillant
+les revenus mixtes:  des revenus issus d'une activité non salariée
+
+les revenus de la propriété (revenus du capital): revenus reçus par le propriétaire d'un actif corporel (terrain, immeuble) 
 
 3) Remplissez le schéma ci-dessous 
 
@@ -47,6 +50,7 @@ Schéma à compléter :
 + .........
 - .........
 =revenu dispônible
+
 
 
 
