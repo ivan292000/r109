@@ -16,6 +16,9 @@ propriété (revenus du capital).
 
  Identifiez les agents économiques bénéficiaires de la VA et comment se nomme
 leur part respective :
+-Les salarié obtinnent leur Salaires
+-L'etat perçois les impôts
+-les banque reçoivent les interet
 
 
 1) Calculez le total des revenus primaires. Que constatez-vous ?
