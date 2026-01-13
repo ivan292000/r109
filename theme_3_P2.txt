@@ -23,12 +23,14 @@ leur part respective :
 -L'etat perçois les impôts
 -les banque reçoivent les interet
 
-
 1) Calculez le total des revenus primaires. Que constatez-vous ?
+ grand ecart entre les différentes classes
 
 2) Expliquez ce que sont les revenus primaires.
 
-3) Comment obtient-on le chiffre de 2 500,00 dans la colonne « revenu disponible » ?
+est le revenu que les ménages tirent de leur contribution à l'activité économique, soit directement (revenu d’activité salariée ou non salariée), soit indirectement (revenu de placement mobilier ou immobilier).
+
+
 3) Comment obtient-on le chiffre de 2 500,00 dans la colonne « revenu disponible » ?
 2500 = total revenus primaire + revenus de transfert - prelevements
 
@@ -64,6 +66,7 @@ Schéma à compléter :
 + .........
 - .........
 =revenu dispônible
+
 
 
 
