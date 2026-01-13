@@ -39,9 +39,10 @@ comme la secrétaire n'as pas d'enfant a charge elle est seule a vivre avec ce s
 donc elle n'a pas besoin d'allocation
 
 6) Pourquoi le chômeur bénéficie-t-il de revenus de transfert ?
-Page 2 sur 3
+En france il existe le RSA qui aide les chômeur a vivre
 
 7) Complétez la colonne « revenu disponible » dans le tableau.
+les revenus disponible c'est la somme des revenu primaire et des transfert moins les prelevement.
 
 8) Comparez revenu primaire et revenu disponible. Que constatez-vous ?
 
