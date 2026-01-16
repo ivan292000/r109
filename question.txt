@@ -67,6 +67,17 @@ administration public :
 fonction principale: produit des services non marchand ( prestation sociale )
 ressources : impots , taxes = prelevement obligatoire
 
+ISBLM:( association -syndicat-ong-fondation ...)
+fonction principale : production de services non marchands a destination des menages
+ressources : don , adhésion , cotisation , subvention
+
+ménage:
+fonction principale : consommer bien / servives
+ressources : revenus du travail : salaire , revenue de transfert ( prestation sociales ) , revenus de la propriéte : ex dividende 
+
+reste du monde : opération entre les unité residente et non redidente d'un pays ( ex : éxportation  & importations ) si X > N -> solde + comm exedentaire , si le solde estd deficitaire
+
+
 
 II Représentation d’un circuit économique   
 
