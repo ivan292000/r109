@@ -77,11 +77,11 @@ ressources : revenus du travail : salaire , revenue de transfert ( prestation so
 
 reste du monde : opération entre les unité residente et non redidente d'un pays ( ex : éxportation  & importations ) si X > N -> solde + comm exedentaire , si le solde estd deficitaire
 
-
+7) circuit économique : représenattion simplifié de l'economie qui retrace l'ensemble des flux rélle et monétaire
 
 II Représentation d’un circuit économique   
 
-1)Un marché est un lieu où acheteurs et vendeurs échangent des biens ou des services contre un prix. Son rôle est de permettre les échanges et de fixer les prix selon l’offre et la demande. 
+1)Un marché est un lieu où acheteurs et vendeurs échangent des biens ou des services contre un prix. Son rôle est de permettre les échanges et de fixer les prix selon l’offre et la demande. ( c'est un lieu réelle et fictifs )
 
 2) Flux réel : échange de biens ou de services (ex : un salarié fournit son travail).
 Flux monétaire : échange d’argent en contrepartie (ex : le salaire versé). 
