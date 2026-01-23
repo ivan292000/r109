@@ -8,11 +8,18 @@ https://www.youtube.com/watch?v=ZYkbXe_lmBo
 
 A partir des vidéos et de vos connaissances, répondez aux questions suivantes :
 1) Qu’est-ce que la concurrence parfaite :
-Le principe de concurrence parfaite désigne une situation idéale dans laquelle
-un marché est caractérisé par un nombre important d'offreurs et de demandeurs.
+situation dans laquelle les entreprises en compétition sont soumise au meme condition
 
 2) Quelles sont les conditions nécessaires pour être dans une situation de concurrence pure et
 parfaite ? Expliquez chacune des conditions.
+-CPP-HALT+M
+-homogénéité des produits
+-atomicite du marché 
+-libre entrée le marché
+-transparence du marché
+-mobilité des facteurs de production
+
+il faut respecter les 5 conditions nécessaire pour etre en concurrence parfaite
 
 3) Qu’est-ce qu’un monopole ? Qu’est-ce qu’un oligopole ? Qu’est-ce que la concurrence monopolistique :
 monopole : quand une entreprise est maître de l'offre pour un certain produits/services
@@ -28,27 +35,6 @@ il est est necessaire qu'il y est peu de concurrence car cela permet une economi
 
 6) Pourquoi le législateur a-t-il crée la propriété intellectuelle et les brevets ?
 pour que les travailleurs est un travail qui correpond a leurs compétences (savoir faire]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -118,4 +104,5 @@ or les bien public ne doivent pas appartenir a une entité propre mais a la comm
 
 9) Comment peut-on résoudre cette défaillance de marché ?
 L'etat peut augmenter le nombre de bien collectif
+
 
