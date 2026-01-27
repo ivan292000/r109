@@ -13,7 +13,9 @@ les revenus mixtes:  des revenus issus d'une activité non salariée
 les revenus de la propriété (revenus du capital): revenus reçus par le propriétaire d'un actif corporel (terrain, immeuble) 
 
 3) Remplissez le schéma ci-dessous 
-
+revenus du travail : 25 200€
+revenu mixte : 100 000€
+revenus capitale : (620X12) + 452 + 2500 (par an) = 10 392€
 
 --------------------------------------------------
 
@@ -36,12 +38,12 @@ est le revenu que les ménages tirent de leur contribution à l'activité écono
 
 
 4) Expliquez ce que sont les prélèvements obligatoires et les revenus de transfert.
-Les prelevement obligatoire correspondent au impôts 
+Les prelevement obligatoire correspondent au impôts /taxes / cotisation sociales
 les revenus de transfert correspondent au allocation
 
 5) Pourquoi le secrétaire n’a-t-il pas de revenus de transfert ?
 comme la secrétaire n'as pas d'enfant a charge elle est seule a vivre avec ce salaire
-donc elle n'a pas besoin d'allocation
+donc elle n'a pas besoin d'allocation ( il n'a pas de personne a prendre a charge)
 
 6) Pourquoi le chômeur bénéficie-t-il de revenus de transfert ?
 En france il existe le RSA qui aide les chômeur a vivre
@@ -50,7 +52,7 @@ En france il existe le RSA qui aide les chômeur a vivre
 les revenus disponible c'est la somme des revenu primaire et des transfert moins les prelevement.
 
 8) Comparez revenu primaire et revenu disponible. Que constatez-vous ?
-une baisse pour les plus riches et une augmantation pour les plus pauvres
+une baisse  des revenu pour les plus riches et une augmentation pour les plus pauvres
 
 9) Qui s’occupe de gérer les prélèvements obligatoires et les revenus de transfert ?
 C'est l'etat qui s'occupe de redistribuer les richesses au personne qui on besoin
@@ -58,6 +60,10 @@ C'est l'etat qui s'occupe de redistribuer les richesses au personne qui on besoi
 10) Que va faire le ménage de son revenu disponible ?
 le revenu va servir a faire vivre le menage (nourriture,essence,eau,electricité) mais le surplus 
 peut servir afin des faire des activité de loisir (achete un livre,allez a un concert)
+
+11)
+revenu primaire + revenu de transfert  - prelevement obligatoire = revenu disponible
+
 
 
 
