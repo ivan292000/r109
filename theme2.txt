@@ -19,22 +19,27 @@ parfaite ? Expliquez chacune des conditions.
 -transparence du marché
 -mobilité des facteurs de production
 
-il faut respecter les 5 conditions nécessaire pour etre en concurrence parfaite
+il faut respecter les 5 conditions nécessaire pour etre en concurrence parfaite ( il n'y a pas de concurrenc parfaite) la concurrence est imparfaite quand il y a du monopole,une oligopole ou encore de la  concurrence monopolistique
 
 3) Qu’est-ce qu’un monopole ? Qu’est-ce qu’un oligopole ? Qu’est-ce que la concurrence monopolistique :
-monopole : quand une entreprise est maître de l'offre pour un certain produits/services
+monopole : quand une entreprise est maître de l'offre pour un certain produits/services ( il y a un seul vendeur)
+exemple SNCF reseau .
 
 oligopole : 
-Forme de marché dans lequel un très petit nombre d'entreprises ont le monopole de l'offre d'une marchandise ou d'un service et sont ainsi soustraites au régime de libre concurrence
+Forme de marché dans lequel un très petit nombre d'entreprises ont le monopole de l'offre d'une marchandise ou d'un service et sont ainsi soustraites au régime de libre concurrence( ex telephonie mobile)
+
+concurrence monopolistique : 
+'une situation d'imperfection de marché : chaque entreprise dispose d'un monopole pour son produit particulier.
 
 4) Pourquoi le monopole et l’oligopole sont-ils encadrés par le législateur ?
-  pour qu'il n'y est pas de concurence deloyale
+ abus de de position dominante. 
 
 5) Pourquoi parfois il est nécessaire qu’il y ait peu de concurrence sur le marché ?
-il est est necessaire qu'il y est peu de concurrence car cela permet une economie des cout eet evite le monopole par les plus grandes entreprises
+il est est necessaire qu'il y est peu de concurrence car cela permet une économie d'échelles
 
 6) Pourquoi le législateur a-t-il crée la propriété intellectuelle et les brevets ?
-pour que les travailleurs est un travail qui correpond a leurs compétences (savoir faire]
+ brevets : sert a protéger des innovation,
+ propriété intellectuelle : protege une oeuvre ex droit d'auteur
 
 
 
@@ -52,16 +57,16 @@ A partir de la vidéo, répondez aux questions suivantes :
 
 2) Qui gère les services régaliens ?
 L'état seul s'occupe des service régaliens a travers 5 ministère:
--ministère de la defense
--ministère des relation etrangères
--ministère de l'intérieur
--ministère des finances
--ministère de la justice
+-ministère de la defense -> sécurité exterieur du pays
+-ministère des relation etrangères -> diplomatie
+-ministère de l'intérieur -> gestion des crises
+-BSE = banque central europpéenne -> émmettre de la monnaie
+-ministère de la justice -> definir le droit et rendre la justice
 
 
 3) Comment sont-il financés ?
-Les ministère sont uniquement finance par de l'argent public afin d'eviter 
-toute influence par un groupe externe
+Les ministère sont uniquement financé par de l'argent public afin d'eviter 
+toute influence par un groupe externe ( il sont dinaancé par des prélevements obligatoires)
 
 
 22) En quoi les marchés sont-ils défaillants      ?  
@@ -72,16 +77,16 @@ lorsque tout les acteur d'un marché ne possede pas les meme information
 2) Recopiez le schéma permettant d’expliquer la disparition du marché des véhicules 
 d’occasion.
 l'exemple des voitures d'occasion montre que pour plusieur voitures qui on l'air identique de l'exterieur
-seul le vendeur sait si elle sont en bonne etat ou pas
+seul le vendeur sait si elle sont en bonne etat ou pas ( george Akerlof marché des lemons)
 
 3) Comment est-il possible de lutter contre les asymétries d’information ?
 Le meilleur moyen afin de lutter contre l'asymetrie de l'information et de crée et des labels
 qui fournisse des information telle que le LABEL ROUGE afin de savoir comment a ete elevée le poulet
 
 4) Qu’est-ce qu’une externalité positive ? Une externalité négative ?
-une externalité est le fait que des actions d'un acteur non renumérer affecte le bien etre d'un autre acteur 
-Si c'est en bien on parle de externalité positive
-Si c'est en mal on parle de externalité negative
+une externalité est le fait que des actions d'un agents economique affecte le bien etre d'un autre acteur  sans consommation monétaire 
+Si c'est en bien on parle de externalité positive -> pas incité a continué 
+Si c'est en mal on parle de externalité negative -> encourager a poursuivre
 
 
 5) Pourquoi ces externalités entraînent-elles une mauvaise allocation des ressources ?
@@ -104,5 +109,6 @@ or les bien public ne doivent pas appartenir a une entité propre mais a la comm
 
 9) Comment peut-on résoudre cette défaillance de marché ?
 L'etat peut augmenter le nombre de bien collectif
+
 
 
